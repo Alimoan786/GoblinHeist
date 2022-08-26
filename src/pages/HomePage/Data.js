@@ -7,7 +7,7 @@ export const homeObjTwo = {
   topLine: "Road Map",
   headline: "100% Total World Wide Domination",
   description:
-    "We will be launching a new NFT collection with exclusive pre-sale access for Apocalyptic Pigs owners. Plus, we will be donating 10% of the total collection revenue to a charity based on the choice of the community.",
+    "We will be launching a new NFT collection with exclusive pre-sale access for Goblin Heist owners. Plus, we will be donating 10% of the total collection revenue to a charity based on the choice of the community.",
   buttonLabel: "Twitter",
   buttonLink: "https://www.twitter.com",
   imgStart: "",
@@ -25,7 +25,7 @@ export const homeObjThree = {
   topLine: "Road Map",
   headline: "25% The Outbreak.",
   description:
-    "We will give away 10 custom made Apocalyptic Pigs to our community and 1 ETH to a random Apocalyptic Pigs owner.",
+    "We will give away 10 custom made Goblin Heist to our community and 1000 Matic to a random Goblin Heist owner.",
   buttonLabel: "Join our Discord !",
   buttonLink: "https://discord.com",
   imgStart: "start",
@@ -43,7 +43,7 @@ export const homeObjFour = {
   topLine: "Road Map",
   headline: "50% Early Domination.",
   description:
-    "We will give away 50 custom made Apocalyptic Pigs to our community and 2 ETH to a random Apocalyptic Pigs owner.",
+    "We will give away 50 custom made Goblin Heist to our community and 2000 Matic to a random Goblin Heist owner.",
   buttonLabel: "OpeanSea",
   buttonLink: "https://www.opensea.io",
   imgStart: "",
@@ -61,7 +61,7 @@ export const homeObjFive = {
   topLine: "Road Map",
   headline: "75% The Beginning of the End.",
   description:
-    "Holders will have early access to our exclusive Apocalyptic Pigs Figurine drops. Plus, early access to limited edition merch.",
+    "Holders will have early access to our exclusive Goblin Heist Treasure drops. Plus, early access to limited edition merch.",
   buttonLabel: "Instagram",
   buttonLink: "https://www.instagram.com",
   imgStart: "start",

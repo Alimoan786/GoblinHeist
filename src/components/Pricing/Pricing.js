@@ -32,13 +32,13 @@ function Pricing() {
                   <GiRock />
                 </PricingCardIcon>
                 <PricingCardPlan>Rare NFTs</PricingCardPlan>
-                <PricingCardCost>7000 NFTs</PricingCardCost>
+                <PricingCardCost>10000 NFTs</PricingCardCost>
                 <PricingCardLength>probably rare NFTs</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Alogrithmic Genrated</PricingCardFeature>
+                  <PricingCardFeature>Goblin Heist Genrated</PricingCardFeature>
                   <PricingCardFeature>One of a Kind</PricingCardFeature>
                 </PricingCardFeatures>
-                <a href="https://opensea.io/collection/apocalypticpigs">
+                <a href="https://opensea.io/collection/goblin-heist">
                   <Button primary>Opean Sea</Button>
                 </a>
               </PricingCardInfo>
@@ -49,13 +49,13 @@ function Pricing() {
                   <GiCrystalBars />
                 </PricingCardIcon>
                 <PricingCardPlan>Fair Launch</PricingCardPlan>
-                <PricingCardCost>30 MATIC</PricingCardCost>
+                <PricingCardCost>2.5 MATIC</PricingCardCost>
                 <PricingCardLength>per NFT</PricingCardLength>
                 <PricingCardFeatures>
                   <PricingCardFeature>For Public sale</PricingCardFeature>
                   <PricingCardFeature>Verified Contract</PricingCardFeature>
                 </PricingCardFeatures>
-                <a href="https://opensea.io/collection/apocalypticpigs">
+                <a href="https://opensea.io/collection/goblin-heist">
                   <Button primary>Opean Sea</Button>
                 </a>
               </PricingCardInfo>
@@ -66,15 +66,15 @@ function Pricing() {
                   <GiCutDiamond />
                 </PricingCardIcon>
                 <PricingCardPlan>Exclusive Utility</PricingCardPlan>
-                <PricingCardCost>2 {constants.EtherSymbol}</PricingCardCost>
-                <PricingCardLength>to random AP Owner</PricingCardLength>
+                <PricingCardCost>1 {constants.EtherSymbol}</PricingCardCost>
+                <PricingCardLength>to random Goblin Heist Owner</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Limited Editin merch</PricingCardFeature>
+                  <PricingCardFeature>Limited Edition merch</PricingCardFeature>
                   <PricingCardFeature>
                     Early access to random holders
                   </PricingCardFeature>
                 </PricingCardFeatures>
-                <a href="https://opensea.io/collection/apocalypticpigs">
+                <a href="https://opensea.io/collection/goblin-heist">
                   <Button primary>Opean Sea</Button>
                 </a>
               </PricingCardInfo>

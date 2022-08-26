@@ -44,7 +44,7 @@ function Navbar() {
           <NavbarContainer>
             <NavLogo to="/" onClick={closeMobileMenu}>
               <NavIcon />
-              AP
+              Goblin Heist
             </NavLogo>
             <MobileIcon onClick={handleClick}>
               {click ? <FaTimes /> : <FaBars />}
@@ -57,7 +57,7 @@ function Navbar() {
               </NavItem>
               <NavItem>
                 <NavLinksa
-                  href="https://opensea.io/collection/apocalypticpigs"
+                  href="https://opensea.io/collection/goblin-heist"
                   onClick={closeMobileMenu}
                 >
                   Opensea
@@ -65,13 +65,13 @@ function Navbar() {
               </NavItem>
               <NavItemBtn>
                 {button ? (
-                  <NavBtnLink href="https://mintapopaclypticpigs.vercel.app/">
-                    <Button primary>Minting</Button>
+                  <NavBtnLink href="https://stake.goblinheist.xyz/stake">
+                    <Button primary>Staking</Button>
                   </NavBtnLink>
                 ) : (
-                  <NavBtnLink href="https://mintapopaclypticpigs.vercel.app/">
+                  <NavBtnLink href="https://stake.goblinheist.xyz/stake">
                     <Button onClick={closeMobileMenu} fontBig primary>
-                      Minting
+                      Staking
                     </Button>
                   </NavBtnLink>
                 )}

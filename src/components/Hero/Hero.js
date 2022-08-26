@@ -22,15 +22,14 @@ function Hero() {
               <InfoColumn>
                 <TextWrapper>
                   <TopLine lightTopLine="true">Welcome To</TopLine>
-                  <Heading lightText="true">Apopaclyptic Pigs</Heading>
+                  <Heading lightText="true">Goblin Heist</Heading>
                   <Subtitle lightTextDesc="true">
-                    It's 2069, a nuclear war erupted ending life as we know it.
-                    A mutation caused by radiation mutated pigs are now they
-                    rule the world
+                    It's 1920, our treasure was heisted by pirate's but now our
+                      Goblin's are ready to heist them back for our community .
                   </Subtitle>
-                  <a href="https://mintapopaclypticpigs.vercel.app/">
+                  <a href="https://mint.goblinheist.xyz">
                     <Button big fontBig primary="true">
-                      Mint Your Pig
+                      Mint Your Goblin Heist
                     </Button>
                   </a>
                 </TextWrapper>

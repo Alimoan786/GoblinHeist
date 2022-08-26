@@ -34,9 +34,9 @@ function Footer() {
         <SocialMediaWrap>
           <SocialLogo to="/">
             <SocialIcon />
-            AP
+            Goblin Heist
           </SocialLogo>
-          <WebsiteRights>AP © 2021</WebsiteRights>
+          <WebsiteRights>Goblin Heist © 2022</WebsiteRights>
           <SocialIcons>
             <SocialIconLink href="/" target="_blank" aria-label="Facebook">
               <FaFacebook />
@@ -44,7 +44,7 @@ function Footer() {
             <SocialIconLink href="/" target="_blank" aria-label="Instagram">
               <FaInstagram />
             </SocialIconLink>
-            <SocialIconLink href="/" target="_blank" aria-label="Twitter">
+            <SocialIconLink href="https://twitter.com/goblinheist" target="_blank" aria-label="Twitter">
               <FaTwitter />
             </SocialIconLink>
           </SocialIcons>
